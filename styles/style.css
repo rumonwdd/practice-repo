@@ -1,0 +1,26 @@
+.demo{
+    color: rgb(7, 22, 234);
+    font-size: 29px;
+    /* background-color: blue; */
+}
+
+.picture{
+    background-image: url(../pic/rumon.jpg);
+    height: 500px;
+    /* width: 50%; */
+    background-repeat: no-repeat;
+}
+
+.section{
+    background-color: chartreuse;
+    color: crimson;
+    width: 50%;
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 9px solid tomato;
+    box-shadow: 10px 10px slategrey;
+}
+h2{
+    color: rgb(84, 7, 207)
+}
